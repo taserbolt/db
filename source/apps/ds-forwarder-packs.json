@@ -36,12 +36,12 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/taserbolt/APFix-and-Widescreen-TWL/raw/main/apfix.pck",
+				"file": "https://github.com/taserbolt/filehosting-repo/raw/main/apfix.pck",
 				"output": "/_nds/ntr-forwarder/apfix.pck"
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/taserbolt/APFix-and-Widescreen-TWL/raw/main/widescreen.pck",
+				"file": "https://github.com/taserbolt/filehosting-repo/raw/main/widescreen.pck",
 				"output": "/_nds/ntr-forwarder/widescreen.pck"
 			}
 		]
